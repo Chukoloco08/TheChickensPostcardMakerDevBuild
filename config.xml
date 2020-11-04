@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.sawyerique.thechickenspostcards"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>The Chickens' Postcard Maker (DEV BUILD)</name>
+
+  <description>
+      (IN DEVELOPMENT) Make your postcards, not just postcards, but postcards mixed with Sawyer Ique's The Chickens!
+  </description>
+
+  <author href="https://www.youtube.com/channel/UC-JKIGYyFrVv7ttiIhmtI6Q" email="chukoloco08@gmail.com">
+      Sawyer Ique
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
